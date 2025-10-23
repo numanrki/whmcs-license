@@ -45,10 +45,5 @@
     "prefer-stable": true,
     "scripts": {
         "test": "vendor/bin/pest"
-    },
-    "config": {
-        "allow-plugins": {
-            "pestphp/pest-plugin": true
-        }
     }
 }
