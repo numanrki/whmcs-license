@@ -35,8 +35,8 @@ Add the following to your `.env` file:
 
 ```
 # Licensing / WHMCS
-LICENSE_SERVER_URL=https://onebighost.com
-LICENSE_SERVER_VERIFY_URL=https://onebighost.com/modules/servers/licensing/verify.php
+LICENSE_SERVER_URL=https://example.com
+LICENSE_SERVER_VERIFY_URL=https://example.com/modules/servers/licensing/verify.php
 LICENSE_SERVER_SECRET_KEY=onebighost-postsoft
 LICENSE_ADMIN_GRACE_DAYS=10
 LICENSE_FORCE_CHECK_COOLDOWN=60
