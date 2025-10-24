@@ -1,6 +1,6 @@
 # Publishing the numanrki/whmcs-license Package
 
-To publish this package to GitHub and Packagist, follow these steps in your terminal from the package directory (c:/Users/numan/Documents/packagist/whmcs-licnese). Note: Your provided GitHub URL has a typo ("licnese" instead of "license"). Use the correct one: https://github.com/numanrki/whmcs-license.git. If the repository doesn't exist, create it on GitHub first.
+To publish this package to GitHub and Packagist, follow these steps in your terminal from the package directory (c:/Users/numan/Documents/packagist/whmcs-license). Use the correct GitHub URL: https://github.com/numanrki/whmcs-license.git. If the repository doesn't exist, create it on GitHub first.
 
 1. Initialize Git repository:
    ```
