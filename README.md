@@ -1,4 +1,10 @@
 # numanrki/whmcs-license
+[![GitHub stars](https://img.shields.io/github/stars/numanrki/whmcs-license?style=social)](https://github.com/numanrki/whmcs-license)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/numanrki/whmcs-license.svg)](https://packagist.org/packages/numanrki/whmcs-license)
+[![Packagist Version](https://img.shields.io/packagist/v/numanrki/whmcs-license.svg)](https://packagist.org/packages/numanrki/whmcs-license)
+[![Packagist License](https://img.shields.io/packagist/l/numanrki/whmcs-license.svg)](https://packagist.org/packages/numanrki/whmcs-license)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/numanrki)
+
 
 A Laravel package for integrating WHMCS Licensing Addon verification system. This package allows Laravel applications to verify licenses remotely, supports middleware and validation rules, and follows Laravel conventions.
 
